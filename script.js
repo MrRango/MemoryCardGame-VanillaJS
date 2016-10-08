@@ -1,6 +1,3 @@
-/**
- * Simple Card object
- */
 var Card = function(imgUrl) {
     this.imgUrl = imgUrl;
 }
